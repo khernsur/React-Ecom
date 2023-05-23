@@ -6,7 +6,7 @@ export default function Success() {
     <div className='home'>
         <div className="row">
                     <div className="col-md-5 d-flex justify-content-center">
-                        <img src="/assets/pay.jfif" className="payment" width={500} ></img>
+                        <img src="/assets/pay.jp" className="payment" width={500} ></img>
                     </div>
                     <div className="col-md-4">
                         <br></br><br></br>
