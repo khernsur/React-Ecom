@@ -9,6 +9,10 @@ import About from './component/About';
 import Contact from './component/Contact';
 import Checkout from './component/Checkout';
 import Success from './component/Success';
+import ReactGa from 'react-ga4';
+
+ReactGa.initialize('G-7W50T7N0Q9')
+
 
 function App() {
   return (
